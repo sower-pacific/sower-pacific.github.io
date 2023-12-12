@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+ <style type="text/css">
+ <!--
+.rireki{
+  position: absolute;
+  top: 650px;
+}
+.mark{
+  position: absolute;
+  top: 750px;
+}
+.copyright{
+  position: absolute;
+  top: 870px;
+}
+ -->
+ </style>
+ <title></title>
+</head>
+
+
+<body style="line-height:120%">
+<font size="-1">
+
+<font size="-1"><BR>
+<img src="image_touron/touron2016_03.jpg"><BR>
+北海道大学<BR>
+<BR>
+<a href="abstract.html" title="プログラム・講演形式" style="text-decoration:none;" target="main_r">講演要旨提出</a><BR>
+<BR>
+<a href="program.html" title="プログラム・講演形式" style="text-decoration:none;" target="main_r">講演形式について</a><BR>
+<BR>
+<a href="entry.html" title="プログラム・講演形式" style="text-decoration:none;" target="main_r">参加登録</a><BR>
+<BR>
+<a href="location.html" title="会場・交通案内" style="text-decoration:none;" target="main_r">会場・アクセス</a><br>
+<BR>
+<a href="contact.html" title="お問い合わせ" style="text-decoration:none;" target="main_r">お問い合わせ</a><BR>
+<BR>
+<a href="main_r.html" title="ホーム" style="text-decoration:none;" target="main_r">ホーム</a><BR>
+</font></font><br><br>
+<div class="rireki"><font size="-1">更新履歴<BR>
+2016/6/？？ <BR>
+ホームページを開設<BR>
+</font>
+<table>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div class="copyright"><font size="-1"><font size="-1"><font size="-2">Copyright 2016 第22回大気化学討論会 <BR>
+All Rights Reserved.
+</font></font></font></div>
+</body>
+
+
+</html>
