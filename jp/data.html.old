@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> --> 
+<meta name="keywords" content="SOWER,オゾン,水蒸気,熱帯,成層圏,対流圏,熱帯対流圏界層" />
+<meta name="description" content="熱帯オゾン・水蒸気観測プロジェクトSOWER " />
+<title>データ | SOWER/Pacific Soundings of Ozone and Water in the Equatorial Region/Pacific Mission</title>
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<![endif]-->
+<!-- Css -->
+<link rel="stylesheet" type="text/css" href="../css/reset.css"/>
+<link rel="stylesheet" type="text/css" href="../css/style.css"/>
+<link rel="stylesheet" type="text/css" href="../css/common.css"/>
+</head>
+
+<body>
+<a name="top" id="top"></a>
+<div id="hd" class="layout">
+<header>
+<h1><a href="index.html"><img src="../images/h1.jpg" alt="SOWER/Pacific" width="800" height="52"></a></h1>
+<div id="hd_lang"> <a href="index.html"><img src="../images/hd_lang_btn01.jpg" alt="日本語"  width="68" height="29"></a> <a href="../index.html"><img src="../images/hd_lang_btn02.jpg" alt="English" width="68" height="29"></a></div>
+</header>
+</div>
+<!-- header end-->
+
+<div id="con" class="layout cf">
+<h2>データ</h2>
+<div id="nav">
+<nav>
+<ul>
+<li><a href="intro.html">イントロダクション </a></li>
+<li><a href="high.html">ハイライト  </a></li>
+<li><a href="pub.html">出版物  </a></li>
+<li><a href="mem.html">メンバー  </a></li>
+<li><a href="data.html" class="current">データ </a></li>
+<li><a href="manual.html">マニュアル  </a></li>
+<li><a href="meet.html">会議 </a></li>
+<li><a href="photo.html">写真 </a></li>
+</ul>
+</nav>
+</div>
+<!-- nav end-->
+
+<article>
+<div id="main">
+<section>
+
+
+<h3>Summary of SOWER campaign</h3>
+
+<p> Number of soundings at each station. </p>
+
+<table width="98%" style="border-collapse: collapse;border:1px solid #000000;color:#000000;text-align:left;"><tbody>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;HN</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;KT</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;BD</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;WK</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;BI</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;TR</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;CR</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;SC</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;SH</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;MR</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;KH</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;1998</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;1999</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="lime">4</font></td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="lime">14</font></td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2000</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">13</font></td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2001</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="deepskyblue">4</font></td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2002</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">12</font></td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2003</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">3</font></td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">1</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2004</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">8</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">3</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">10</font></td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">15</font></td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2005</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2006</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">15</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">10</font></td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">9 </font><font color="gray"> 12</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">11</font></td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="gray">15</font></td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2007</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2008</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">7</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2009</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2010</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">6</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">5</font></td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2011</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2012</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">3</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">2</font></td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2013</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">3</font></td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">4</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+<tr>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;2014</td>
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--HN-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KT-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--BD-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--WK-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;<font color="black">8</font></td><!--BI-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--TR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--CR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SC-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--SH-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--MR-->
+<td style="border:1px solid #000000;text-align:center;">&nbsp;</td><!--KH-->
+</tr>
+</tbody></table>
+
+
+<p>
+HN: Hanoi, Vietnam (105.80E, 21.01N) <br>
+KT: Kototabang, Indonesia (100.32E, 0.20S) <br>
+BD: Bandung, Indonesia (107.59E, 6.89S) <br>
+WK: Watukosek, Indonesia (112.7E, 7.6S) <br>
+BI: Biak, Indonesia (136.06E, 1.17S) <br>
+TR: Tarawa, Kiribati (172.92E, 1.35N) <br>
+CR: Christmas Is., Kiribati (157.17W, 1.70N) <br>
+SC: San Cristbal, Ecuador (89.6W, 0.9S) <br>
+SH: R/V Shoyo-maru <br>
+MR: R/V Mirai <br>
+KH: R/V Hakuho-maru <br>
+ <br>
+Black: NOAA FPH or CFH + ECC ozonesonde <br>
+Gray: SW + ECC ozonesonde <br>
+Blue: NOAA FPH <br>
+Green: ECC ozonesonde <br>
+</p>
+
+<br>
+<p>Data will soon be open from this page. 
+Some data are available upon request.</p> 
+
+
+
+</section>
+
+</div></article>
+<!-- main end-->
+<div class="crr"></div>
+</div>
+<!-- contents end-->
+
+<div id="ft">
+<footer> <small>&copy; Copyright 2003-2018 SOWER/Pacific.</small> </footer>
+</div>
+<!-- footer end--> 
+
+<!-- Javascript --> 
+<script type="text/javascript" src="../js/jquery.min.js"></script> 
+<script type="text/javascript" src="../js/function.js"></script>
+<!--pagetop-->
+<script type="text/javascript" src="../js/scrolltopcontrol.js"></script>
+<!--pagetop-->
+</body>
+</html>
