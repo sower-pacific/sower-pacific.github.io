@@ -1,0 +1,264 @@
+/* For modern browsers */
+.cf {
+	zoom: 1;
+}
+.cf:before, .cf:after {
+	content: "";
+	display: table;
+}
+.cf:after {
+	clear: both;
+}
+.crr {
+	clear: both;
+}
+/*----------------------------------------------------------------------------
+******************************************************************************
+Layout
+******************************************************************************
+----------------------------------------------------------------------------*/
+/* ==== Base === */
+body {
+	background: url(../fig/.jpg);
+}
+
+.layout {
+	width: 800px;
+	margin: 0 auto;
+}
+.layout:before, .layout:after {
+	content: "";
+	display: table;
+}
+.layout:after {
+	clear: both;
+}
+
+/* ==== Backgraund === */
+.wrap {
+	background: url(../fig/xIONX0075.jpg) top center repeat-x #FFFFFF;
+}
+/* ==== Header === */
+#hd {
+	width: 550px;
+        margin: 0 auto;
+	position: relative;
+	top: 8px;
+	right: -70px;
+        text-align: center;
+}
+#index #hd{
+	height: 198px;
+}
+#hd_lang{
+	width: 140px;
+	height: 29px;
+	position: absolute;
+	top: 8px;
+	right: 0px;
+}
+#hd_lang img{
+	float: center;
+}
+/* ==== Navigation === */
+#nav {
+	width: 150px;
+	float: left;
+}
+
+/* ==== Content === */
+#con {
+	padding: 20px 20px 0px 20px;
+	min-height: 500px;
+	background: url(../../images/con_bg.png) top center no-repeat;
+}
+#index #con{
+	padding: 0px;
+	background: none;
+}
+
+#main {
+	width: 640px;
+	float: right;
+}
+
+/* ==== Footer === */
+#ft {
+	padding-top: 60px;
+	padding-bottom: 30px;
+	text-align: center;
+	background: url(../../images/xft_bg.jpg) top center no-repeat #FFFFFF;
+}
+/*----------------------------------------------------------------------------
+******************************************************************************
+Head
+******************************************************************************
+----------------------------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+h1 {
+	position: absolute;
+	top: 37px;
+}
+h2 {
+	height: 56px;
+	width: 800px;
+	font-size: 2em;
+	padding: 24px 0px 10px 20px;
+	background: url(../../images/h2_bg.jpg) 0 0 no-repeat;
+	color: #FFF;
+}
+h3 {
+	font-size: 2.3em;
+	margin: 0 0 5px 0;
+	color: #044286;
+}
+h4 {
+	font-size: 1.3em;
+	margin: 10px 0px;
+}
+h5 {
+	font-size: 1.1em;
+	margin: 10px 0px;
+}
+	
+h1.img, h2.img, h3.img, h4.img, h5.img, h6.img { margin: 0;padding: 0;background: none;border: none; }
+
+/*----------------------------------------------------------------------------
+******************************************************************************
+Original
+******************************************************************************
+----------------------------------------------------------------------------*/
+/* ==== Nav === */
+#nav ul {
+/*        position: fixed;*/
+	padding: 0px;
+}
+#nav li {
+/*        position: fixed;*/
+        display: inline;
+        float:left;
+}
+#nav li a {
+/*        position: fixed;*/
+        display: inline;
+        float:left;
+	width: 120px;
+	min-height: 19px;
+	padding: 6px 4px 4px 16px;
+	display: block;
+	text-decoration: none;
+	background: url(../../images/xnav_bg.jpg) no-repeat left top blue;
+	color: #FFFFFF;
+}
+#nav li a:hover{
+	background: url(../../images/xnav_bg_ov.jpg) no-repeat left top blue;
+	color: #FFFF00;
+}
+#nav li a.current{
+	background: url(../../images/xnav_bg_ov.jpg) no-repeat left top blue;
+	color: #FFFF00;
+}
+/* ==== Index === */
+#index_img {
+	margin-bottom: 20px;
+	-moz-box-shadow: 0px 0px 8px #0d1247;
+	-webkit-box-shadow: 0px 0px 8px #0d1247;
+	box-shadow: 0px 0px 8px #0d1247;
+}
+#index #news {
+	height: 300px;
+	overflow: auto;
+}
+#index #news table {
+}
+#index #news table td {
+	vertical-align: top;
+	font-size: 0.8em;
+	padding: 10px;
+	border-bottom: 1px dotted #CCC;
+}
+#index #news table td.date {
+	width: 120px;
+}
+#index #news div.icon {
+	background: url(../../images/common/news_icon.gif) 0 2px no-repeat;
+	padding-left: 15px;
+}
+/* ======== Page ======== */
+/*---#con_left---*/
+
+/*---#con_right---*/
+/* ol,ul */
+#main ol, #main ul {
+	padding: 5px 0px 5px 25px;
+}
+#main ul {
+	list-style-type: disc;
+}
+#main ol li, #main ul li {
+	padding: 5px 0px;
+}
+/* table */
+#main table {
+	margin: 10px 0px;
+}
+#main table th, #main table td {
+	padding: 5px;
+}
+/* img */
+#main a img:hover {
+	opacity: 0.5;
+	filter: alpha(Opacity=50);
+}
+#main img {
+	-moz-box-shadow: 0px 0px 8px #E6E6E6;
+	-webkit-box-shadow: 0px 0px 8px #E6E6E6;
+	box-shadow: 0px 0px 8px #E6E6E6;
+}
+/* section */
+#main > section{
+	padding: 13px;
+	margin-bottom: 10px;
+	background: #FFF;
+	-moz-box-shadow: 0px 0px 8px #E6E6E6;
+	-webkit-box-shadow: 0px 0px 8px #E6E6E6;
+	box-shadow: 0px 0px 8px #E6E6E6;
+}
+
+/*----Other----*/
+dl.mem_dl{
+	overflow: hidden;
+}
+dl.mem_dl dt{
+	width: 12em;
+	float: left;
+	padding-top: 1em;
+	font-weight: bold;
+}
+dl.mem_dl dd{
+	padding-top: 1em;
+	padding-left: 12em;
+	border-bottom: 1px dotted #666;
+}
+
+.photo_box{
+	width: 190px;
+	margin: 0 5px 10px 5px;
+	float: left;
+	text-align: center;
+}
+/*----News Scroll----*/
+
+.scr {
+  overflow: scroll;   /* スクロール表示 */ 
+  width: 635px;
+  height: 200px;
+  border-style: solid;
+  border-color: lightgrey
+/*  background-color: red;*/
+}
+
+
+
